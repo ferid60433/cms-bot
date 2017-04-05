@@ -3,13 +3,13 @@
     language: en
     tag: ''
     type: string
-    value: Please cancel my account
+    value: Please cancel my account.
 -   io: input
     key: cancel
     language: en
     tag: ''
     type: string
-    value: I'd like to cancel my account
+    value: I'd like to cancel my account.
 -   io: input
     key: cancel
     language: en
