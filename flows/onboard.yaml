@@ -1,0 +1,12 @@
+name: onboard
+states:
+    language:
+        component: meya.input_string
+        properties:
+            text: "What's your preferred language?"
+            output: language
+            scope: user
+    thanks:
+        component: meya.text
+        properties:
+            text: "{{ cms.onboard.thanks }}"

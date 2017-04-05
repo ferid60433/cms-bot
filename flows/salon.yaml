@@ -1,0 +1,6 @@
+name: salon
+states:
+    first:
+        component: meya.text
+        properties:
+            text: "{{ flow.service }} with {{ flow.person }} on {{ flow.date }}"

@@ -1,0 +1,42 @@
+-   io: output
+    key: bye
+    language: ar
+    tag: ''
+    type: string
+    value: وداعا
+-   io: output
+    key: bye
+    language: de
+    tag: ''
+    type: string
+    value: Auf Wiedersehen
+-   io: output
+    key: bye
+    language: en
+    tag: ''
+    type: string
+    value: "Goodbye \U0001F61E"
+-   io: output
+    key: bye
+    language: fr
+    tag: ''
+    type: string
+    value: Au Revoir
+-   io: output
+    key: bye
+    language: ko
+    tag: ''
+    type: string
+    value: 안녕
+-   io: output
+    key: bye
+    language: ru
+    tag: ''
+    type: string
+    value: Прощай
+-   io: output
+    key: hi
+    language: en
+    tag: ''
+    type: string
+    value: "Hello, world! \U0001F604"

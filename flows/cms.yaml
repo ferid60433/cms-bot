@@ -1,0 +1,7 @@
+name: cms
+states:
+    first:
+        component: cms
+        properties:
+            space: main
+            key: hi

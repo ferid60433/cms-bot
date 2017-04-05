@@ -1,0 +1,10 @@
+name: hello_world
+states:
+    first:
+        component: meya.text
+        properties:
+            text: "{{ cms.main.hi }}"
+    second:
+        component: meya.text
+        properties:
+            text: "{{ cms.main.bye }}"

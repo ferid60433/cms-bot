@@ -1,0 +1,169 @@
+-   io: input
+    key: cancel
+    language: en
+    tag: ''
+    type: string
+    value: Please cancel my account
+-   io: input
+    key: cancel
+    language: en
+    tag: ''
+    type: string
+    value: I'd like to cancel my account
+-   io: input
+    key: cancel
+    language: en
+    tag: ''
+    type: string
+    value: Cancel my account.
+-   io: input
+    key: cancel
+    language: en
+    tag: ''
+    type: string
+    value: How do I cancel my account?
+-   io: input
+    key: cancel
+    language: en
+    tag: ''
+    type: string
+    value: i'd like to cancel
+-   io: input
+    key: cancel
+    language: en
+    tag: ''
+    type: string
+    value: can i cancel?
+-   io: input
+    key: cancel
+    language: en
+    tag: ''
+    type: string
+    value: how do i cancel?
+-   io: output
+    key: cancel
+    language: en
+    tag: ''
+    type: string
+    value: 'Sorry to hear that. Is there anything we can do to keep you?
+
+
+        Otherwise go to billing and click the trash icon. You''ll be instructed to
+        reduce your bots, collaborators or any premium features before cancelling.
+
+
+        https://meya.ai/platform/billing'
+-   io: input
+    key: learn
+    language: en
+    tag: ''
+    type: string
+    value: I'd like to learn more about Meya. Can I schedule a call?
+-   io: input
+    key: learn
+    language: en
+    tag: ''
+    type: string
+    value: Can I schedule a call to learn more?
+-   io: input
+    key: learn
+    language: en
+    tag: ''
+    type: string
+    value: I'd like to learn more about Meya
+-   io: input
+    key: learn
+    language: en
+    tag: ''
+    type: string
+    value: How should I get started?
+-   io: input
+    key: learn
+    language: en
+    tag: ''
+    type: string
+    value: Where should I start?
+-   io: output
+    key: learn
+    language: en
+    tag: ''
+    type: string
+    value: 'Glad to hear you''d like to learn more. I recommend having a read of our
+        docs: https://docs.meya.ai and checking out our blog: https://medium.com/making-meya
+
+
+        If you''d like to set up a time to discuss your project, feel free to book
+        a time here: https://calendly.com/erik-k'
+-   io: input
+    key: pricing
+    language: en
+    tag: ''
+    type: string
+    value: How much does this cost?
+-   io: input
+    key: pricing
+    language: en
+    tag: ''
+    type: string
+    value: What's the price?
+-   io: input
+    key: pricing
+    language: en
+    tag: ''
+    type: string
+    value: How much is a subscription?
+-   io: input
+    key: pricing
+    language: en
+    tag: ''
+    type: string
+    value: How much does a subscription cost?
+-   io: input
+    key: pricing
+    language: en
+    tag: ''
+    type: string
+    value: What's your price?
+-   io: output
+    key: pricing
+    language: en
+    tag: ''
+    type: string
+    value: 'Meya is a subscription service. See our detailed pricing here: https://meya.ai/pricing'
+-   io: input
+    key: pricing
+    language: fr
+    tag: ''
+    type: string
+    value: Combien cela coûte?
+-   io: input
+    key: pricing
+    language: fr
+    tag: ''
+    type: string
+    value: Quel est votre prix?
+-   io: input
+    key: pricing
+    language: fr
+    tag: ''
+    type: string
+    value: Combien ça coûte?
+-   io: input
+    key: pricing
+    language: fr
+    tag: ''
+    type: string
+    value: Combien?
+-   io: input
+    key: pricing
+    language: fr
+    tag: ''
+    type: string
+    value: Combien cela coûte?
+-   io: output
+    key: pricing
+    language: fr
+    tag: ''
+    type: string
+    value: Meya est considéré comme un service d'abonnement. Voir notre prix détaillé
+        ici https://meya.ai/pricing

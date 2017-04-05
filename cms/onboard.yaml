@@ -1,0 +1,48 @@
+-   io: output
+    key: thanks
+    language: ar
+    tag: ''
+    type: string
+    value: شكر. أنا أتكلم باللغة الإنجليزية من الآن فصاعدا.
+-   io: output
+    key: thanks
+    language: de
+    tag: ''
+    type: string
+    value: Vielen Dank. Ich werde von nun an in Englisch sprechen.
+-   io: output
+    key: thanks
+    language: en
+    tag: ''
+    type: string
+    value: Thanks. I'll speak in English from now on.
+-   io: output
+    key: thanks
+    language: es
+    tag: ''
+    type: string
+    value: Gracias. Hablaré en inglés a partir de ahora.
+-   io: output
+    key: thanks
+    language: fr
+    tag: ''
+    type: string
+    value: Merci. Je vais parler en anglais à partir de maintenant.
+-   io: output
+    key: thanks
+    language: ja
+    tag: ''
+    type: string
+    value: ありがとう。私は今から英語で話します。
+-   io: output
+    key: thanks
+    language: ko
+    tag: ''
+    type: string
+    value: 감사. 나는 지금부터 영어로 말할거야.
+-   io: output
+    key: thanks
+    language: ru
+    tag: ''
+    type: string
+    value: Благодарю. Теперь я буду говорить по-английски.

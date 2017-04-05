@@ -1,0 +1,10 @@
+name: settings
+states:
+    colour:
+        component: meya.text
+        properties:
+            text: "Colour: {{ bot._settings.colour }}"
+    timezone:
+        component: meya.text
+        properties:
+            text: "Timezone: {{ bot._settings.timezone }}"
