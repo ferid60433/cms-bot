@@ -1,4 +1,8 @@
-name: cms
+triggers:
+  - type meya.keyword
+    properties:
+        ignorecase: true
+        keyword: cms
 states:
     first:
         component: cms

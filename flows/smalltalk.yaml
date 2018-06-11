@@ -1,4 +1,9 @@
-name: smalltalk
+triggers:
+  - type: meya.api_ai
+    properties:
+        client_access_token: 89c8a34c78b6418a95d5f3b51f0bc3f3
+        intent_regex: ^smalltalk\.(agent)|(person)$
+        language: en
 states:
     default:
         component: meya.text

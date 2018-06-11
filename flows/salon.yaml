@@ -1,4 +1,8 @@
-name: salon
+triggers:
+  - type: meya.api_ai
+    properties:
+        client_access_token: c1993f44ab724adf9cb602c7086d16d0
+        language: en
 states:
     first:
         component: meya.text
