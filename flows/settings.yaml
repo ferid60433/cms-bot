@@ -1,4 +1,8 @@
-name: settings
+triggers:
+  - type: meya.keyword
+    properties:
+        ignorecase: true
+        keyword: settings
 states:
     colour:
         component: meya.text

@@ -1,4 +1,8 @@
-name: onboard
+triggers:
+  - type: meya.keyword
+    properties:
+        ignorecase: true
+        keyword: hi
 states:
     language:
         component: meya.input_string

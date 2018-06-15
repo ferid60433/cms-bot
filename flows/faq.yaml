@@ -1,4 +1,8 @@
-name: faq
+triggers:
+  - type: meya.cms_nlu
+    properties:
+        detect_language: true
+        space: faq
 states:
     answer:
         component: meya.cms_text
